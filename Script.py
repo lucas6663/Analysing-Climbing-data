@@ -3,7 +3,7 @@
 """
 Created on Wed Apr  6 09:43:29 2022
 
-@author: lucasspierings
+@author: lucas
 """
 #%% Check if datapack is installed
 import sys
